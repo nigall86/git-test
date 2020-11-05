@@ -1,3 +1,7 @@
 div {
   background-color: red;
 }
+
+button {
+  max-width: 40rem;
+}
