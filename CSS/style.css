@@ -4,6 +4,9 @@ div {
 
 button {
   max-width: 40rem;
-  padding: 0.5rem;
+<<<<<<< HEAD
   margin: 2rem;
+=======
+  padding: 1rem;
+>>>>>>> new-blocks
 }
