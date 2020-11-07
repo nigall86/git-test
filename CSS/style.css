@@ -9,3 +9,7 @@ button {
   background-color: cornflowerblue;
   margin: 2rem;
 }
+
+img {
+  width: 100%;
+}
