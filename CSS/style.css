@@ -13,3 +13,7 @@ button {
 img {
   width: 100%;
 }
+
+ul li {
+  color: violet;
+}
